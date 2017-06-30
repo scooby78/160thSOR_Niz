@@ -6,4 +6,3 @@ logo = "160th_Niz.paa";
 tooltip = "160th Niz loadouts"; 
 overview = "This adds 160th loadout configurations and scripted objects with a Niz uniform";
 author = "Scooby";
-added
